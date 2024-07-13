@@ -1,0 +1,11 @@
+.ani-card {
+    text-align: center;
+    background-color: rgba(34, 43, 50, 0.811);
+    border-radius: 8px;
+    color: white;
+}
+.ani-card img{
+    margin-top: 13px;
+    height: 80%;
+    width: 90%
+  }

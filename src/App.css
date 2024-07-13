@@ -1,0 +1,21 @@
+.anime-list span {
+  border-bottom: 2px solid rgb(111, 33, 33);
+  font-weight: bold;
+  color:rgb(255, 0, 0);
+  text-align: center;
+}
+
+.anime-list{
+  text-align: center;
+  margin-top: 8px;
+}
+.card-container{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 24px;
+  margin: 32px 32px 0px 32px;
+  
+}
+.all{
+  background-color: black;
+}
